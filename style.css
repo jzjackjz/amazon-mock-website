@@ -1,0 +1,26 @@
+/* Names: Jack Zhang, Allison Nevias
+Class: CS3265 Database Management Systems
+Date: December 5, 2022
+Project: Project Phase 3 */
+
+#cart_count{
+    text-align: center;
+    padding: 0 0.9rem 0.1rem 0.9rem;
+    border-radius: 31rem;
+}
+
+.shopping-cart{
+    padding: 3% 0;
+}
+
+.payment-methods{
+    padding: 3% 0;
+}
+
+.cart-items + .cart-items{
+    padding: 2% 0;
+}
+
+.price-details h6{
+    padding: 3% 2%;
+}
